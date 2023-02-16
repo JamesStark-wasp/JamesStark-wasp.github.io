@@ -1,4 +1,5 @@
 google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
+gamob.com, pub-5140297653, DIRECT
 google.com, pub-5882656183054581, DIRECT, f08c47fec0942fa0
 appbroda.com, 205, DIRECT
 google.com, pub-8049894195330131, DIRECT, f08c47fec0942fa0
